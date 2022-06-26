@@ -1,6 +1,14 @@
-<h1 align="center">Hello, It's me Sumi Akter</h1>
-<h3 align="center">A passionate junior web developer from Dhaka , Bangladesh. I am  always eager to learn different technologies related to web development. I like to take on challenges and always try to fulfill my responsibilities properly.</h3>
-[Jr web developer](https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/188582400/original/fcc29e857c9a83ae82e61390ce10ae18af4c1319.png)
+### Hi there 👋,  It's me Sumi Akter
+#### Jr web developer
+![Jr web developer](https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/188582400/original/fcc29e857c9a83ae82e61390ce10ae18af4c1319.png)
+
+A passionate junior web developer from Dhaka , Bangladesh. I am always eager to learn different technologies related to web development. I like to take on challenges and always try to fulfill my responsibilities properly.
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiakter2&label=Profile%20views&color=0e75b6&style=flat" alt="sumiakter2" /> </p>
 
