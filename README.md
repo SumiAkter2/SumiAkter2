@@ -5,7 +5,7 @@
 
 - 👨‍💻some of my projects are available at [https://my-portfolio-fbf63.web.app/](https://my-portfolio-fbf63.web.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y-xGQKPC_duisr4t2zFpll28T6ff_XBV/view?usp=sharing](https://drive.google.com/file/d/1Y-xGQKPC_duisr4t2zFpll28T6ff_XBV/view?usp=sharing)
+- 📄 Know about my experiences [My-Resume:    https://drive.google.com/file/d/1Y-xGQKPC_duisr4t2zFpll28T6ff_XBV/view?usp=sharing](https://drive.google.com/file/d/1pFNm1ByUTXEyOS8gAABpmW8YkP7-sUO1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
