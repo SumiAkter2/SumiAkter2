@@ -1,7 +1,8 @@
-![alt text](https://github.com/[sumiAkter2]/SumiAkter2/r_qy8g4O_FTD5ViCnHaQQgjF7ldR9qsYRm_xkwTzuOg.jpeg)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-<h1 align="center">Hello, It's me Sumi Akter</h1>
-<h3 align="center">A dedicated young web developer from Bangladesh's Dhaka. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations.</h3>
+![Profile Imgafe](https://i.ibb.co/Bnhghhh/r-qy8g4-O-FTD5-Vi-Cn-Ha-QQgj-F7ld-R9qs-YRm-xkw-Tzu-Og.jpg )
+# 👋 Hello, It's me Sumi Akter
+
+A dedicated young web developer from Dhaka, Bangladesh. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiakter2&label=Profile%20views&color=0e75b6&style=flat" alt="sumiakter2" /> </p>
 
