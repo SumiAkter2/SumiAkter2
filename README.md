@@ -6,7 +6,7 @@ A dedicated young web developer from Dhaka, Bangladesh. I'm an enthusiastic web 
 
 - 👨‍💻 Visit my portfolio to see all of my projects [click here](https://sumi-akter.vercel.app/)
 
-📄 Know about my experiences from My-Resume:[click here]( https://drive.google.com/file/d/1H6oDdzYXOqlOGiUOR3J9E0bK_fBm2VIK/view?usp=sharing)
+- 📄 Know about my experiences from My-Resume:[click here]( https://drive.google.com/file/d/1H6oDdzYXOqlOGiUOR3J9E0bK_fBm2VIK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
