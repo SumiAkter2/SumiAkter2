@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <h1 align="center">Hello, It's me Sumi Akter</h1>
 <h3 align="center">A dedicated young web developer from Bangladesh's Dhaka. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations.</h3>
 
