@@ -2,10 +2,11 @@
 # 👋 Hello, It's me Sumi Akter
 
 A dedicated young web developer from Dhaka, Bangladesh. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations.
+![Profile Imgafe](https://i.ibb.co/Bnhghhh/r-qy8g4-O-FTD5-Vi-Cn-Ha-QQgj-F7ld-R9qs-YRm-xkw-Tzu-Og.jpg )
 
 - 👨‍💻 Visit my portfolio to see all of my projects [click here](https://sumi-akter.vercel.app/)
 
-📄 Know about my experiences from My-Resume: https://drive.google.com/file/d/1H6oDdzYXOqlOGiUOR3J9E0bK_fBm2VIK/view?usp=sharing
+📄 Know about my experiences from My-Resume:[click here]( https://drive.google.com/file/d/1H6oDdzYXOqlOGiUOR3J9E0bK_fBm2VIK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
