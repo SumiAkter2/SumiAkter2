@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am Creative and focused on my duty.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me with social :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thesumiakter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesumiakter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19061104/sumi-akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19061104/sumi-akter" height="30" width="40" /></a>
