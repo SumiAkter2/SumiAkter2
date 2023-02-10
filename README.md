@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's me Sumi Akter</h1>
-<h3 align="center">I'm a dedicated young web developer from Dhaka, Bangladesh. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations...</h3>
+<h3 align="center">I'm a dedicated young web developer from Dhaka, Bangladesh. I'm an enthusiastic web developer that is always keen to learn new web development-related technologies. I enjoy taking on difficulties and work hard to carry out my obligations....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiakter2&label=Profile%20views&color=0e75b6&style=flat" alt="sumiakter2" /> </p>
 
