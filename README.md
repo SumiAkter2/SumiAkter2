@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiakter2&label=Profile%20views&color=0e75b6&style=flat" alt="sumiakter2" /> </p>
 
-- 👨‍💻 Visit my portfolio to see all of my projects [https://sumi-akter-personal-portfolio.vercel.app/](https://sumi-akter-personal-portfolio.vercel.app/)
+- 👨‍💻 Visit my portfolio to see all of my projects. [https://sumi-akter-personal-portfolio.vercel.app/](https://sumi-akter-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me **sumiakter6335@gmail.com**
 
